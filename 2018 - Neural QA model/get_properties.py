@@ -41,10 +41,10 @@ for rows in soup.find_all("tr"):
     place_labels.append(name)
     data.append(dp)
 
-with io.open("get_properties.csv", mode='w', encoding='UTF8', newline='') as toWrite:
+with io.open("data/get_properties.csv", mode='w', encoding='UTF8', newline='') as toWrite:
     writer = csv.writer(toWrite)
     writer.writerows(data)
 
-with io.open("place_labels.csv", mode='w', encoding='UTF8', newline='') as toWrite:
+with io.open("data/place_labels.csv", mode='w', encoding='UTF8', newline='') as toWrite:
     writer = csv.writer(toWrite)
     writer.writerows(place_labels)
