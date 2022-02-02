@@ -3,4 +3,6 @@ enghin
 node_modules
 *.json
 *.log
+*.gz
 __pycache__
+2019\ -\ Neural\ QA\ model/xmltodict.py
