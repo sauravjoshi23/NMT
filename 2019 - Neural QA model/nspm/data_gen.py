@@ -52,24 +52,30 @@ def data_gen(input_dir, output_dir, input_file):
     # Show length
     print(len(input_tensor_train), len(target_tensor_train), len(input_tensor_val), len(target_tensor_val))
 
-    # print("Input Language; index to word mapping")
+    # print("Input Language; index to word mapping") Tokenizer
     # convert(inp_lang, input_tensor_train[0])
     # print()
-    # print("Target Language; index to word mapping")
+    # print("Target Language; index to word mapping") Tokenizer
     # convert(targ_lang, target_tensor_train[0])
     buffer_size = len(input_tensor_train)
-    batch_size = 16
+    batch_size = 1
+    batch_accumulate_num = 32 # Gradient Accumulation parameter batch_size*batch_accumulate_num = effective batch_size
     steps_per_epoch = len(input_tensor_train) // batch_size
+    steps_per_epoch = steps_per_epoch // batch_accumulate_num
     embedding_dim = 256
-    units = 1024
+    units = 512
     vocab_inp_size = len(inp_lang.word_index) + 1
     vocab_tar_size = len(targ_lang.word_index) + 1
+    print("Vocab Inp Size: ", vocab_inp_size)
+    print("Vocab Tar Size: ", vocab_tar_size)
 
     dataset = tf.data.Dataset.from_tensor_slices((input_tensor_train, target_tensor_train)).shuffle(buffer_size)
     dataset = dataset.batch(batch_size, drop_remainder=True)
     example_input_batch, example_target_batch = next(iter(dataset))
+    print("Batch Size: ", batch_size)
+    print("Length of Dataset: ", len(dataset))
 
-    return dataset, vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, example_input_batch, steps_per_epoch, targ_lang, max_length_targ, max_length_inp, inp_lang
+    return dataset, vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, batch_accumulate_num, example_input_batch, steps_per_epoch, targ_lang, max_length_targ, max_length_inp, inp_lang
 
 
 if __name__ == '__main__':

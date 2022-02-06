@@ -21,6 +21,7 @@ import data_gen
 
 from nmt import NeuralMT, NeuralMTConfig
 
+
 @tf.function
 def train_step(inp, targ, enc_hidden, targ_lang, batch_size, neural_mt):
     loss = 0
@@ -53,9 +54,28 @@ def train_step(inp, targ, enc_hidden, targ_lang, batch_size, neural_mt):
 
     gradients = tape.gradient(loss, variables)
 
-    neural_mt.optimizer.apply_gradients(zip(gradients, variables))
+    # neural_mt.optimizer.apply_gradients(zip(gradients, variables))
 
-    return batch_loss
+    return batch_loss, gradients
+
+def gradient_sum(GRADS):
+    '''sum of gradient which is accumulated by each mini batch calculation '''
+    grads_sum = []
+    for l_i in range(len(GRADS[0])):
+        tmp = []
+        for a_i in range(len(GRADS)):
+            tmp.append(GRADS[a_i][l_i])
+        grads_sum.append(tf.math.add_n(tmp))
+    return grads_sum
+
+
+def gradient_mean(SUM_GRADS, batch_accumulate_num):
+    '''calucate mean gradient from sum gradient'''
+    assert len(SUM_GRADS)==1
+    mean_grads = []
+    for l_i in range(len(SUM_GRADS[0])):
+        mean_grads.append(SUM_GRADS[0][l_i] / batch_accumulate_num)
+    return mean_grads
 
 
 def learn(input_dir, output_dir, input_file, epochs, save_nmt=False):
@@ -80,9 +100,27 @@ def learn(input_dir, output_dir, input_file, epochs, save_nmt=False):
         enc_hidden = encoder.initialize_hidden_state()
         total_loss = 0
 
-        for (batch, (inp, targ)) in enumerate(dataset.take(steps_per_epoch)):
-            batch_loss = train_step(inp, targ, enc_hidden, targ_lang, batch_size, neural_mt)
-            total_loss += batch_loss
+        for batch in range(steps_per_epoch):
+
+            # gradient accumulation
+            GRADS = []
+            train_iter = iter(dataset)
+            for acc_i in range(batch_accumulate_num):
+                inp, targ = next(train_iter)
+                batch_loss, grads = train_step(inp, targ, enc_hidden, targ_lang, batch_size, neural_mt)
+                if acc_i == 0:
+                    GRADS = [grads]
+                else:
+                    GRADS.append(grads)
+                    GRADS = [gradient_sum(GRADS)]
+                
+                total_loss += (batch_loss/batch_accumulate_num)
+
+            # update with mean gradients
+            GRADS = gradient_mean(GRADS, batch_accumulate_num)
+            
+            variables = neural_mt.encoder.trainable_variables + neural_mt.decoder.trainable_variables
+            neural_mt.optimizer.apply_gradients(zip(GRADS, variables))
 
             if batch % 100 == 0:
                 print('Epoch {} Batch {} Loss {:.4f}'.format(epoch + 1,
