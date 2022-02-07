@@ -114,20 +114,20 @@ def plot_attention(attention, sentence, predicted_sentence, ou_dir, show_plot=Fa
 def translate(sentence, ou_dir, config, neural_mt):
   result, sentence, attention_plot = evaluate(sentence, config, neural_mt)
 
-  print('Input: %s' % (sentence))
-  print('Predicted translation: {}'.format(result))
+  # print('Input: %s' % (sentence))
+  # print('Predicted translation: {}'.format(result))
 
-  print(sentence.split(' '))
-  print(result.split(' '))
+  # print(sentence.split(' '))
+  # print(result.split(' '))
 
-  print(attention_plot.shape)
+  # print(attention_plot.shape)
   # attention_plot = attention_plot[:len(result.split(' ')), :len(sentence.split(' '))]
   # plot_attention(attention_plot, sentence.split(' '), result.split(' '), ou_dir)
 
   return result
 
 
-def interpret(input_dir, query):
+def interpret(input_dir):
 
   model_dir = input_dir
   model_dir += '/training_checkpoints'
@@ -136,22 +136,34 @@ def interpret(input_dir, query):
   checkpoint = neural_mt.checkpoint
   checkpoint.restore(tf.train.latest_checkpoint(model_dir)).expect_partial()
 
-  finaltrans = "input query: \n"
-  finaltrans += query
+  finaltrans = []
 
-  finaltrans += "\n \n \n output query: \n"
-  finaltranso = translate(query, input_dir, config, neural_mt)
-  finaltrans += finaltranso
+  # Adding all the test input NLQ data for translation
+  test_dir = input_dir+'/test.en'
+  file1 = open(test_dir, 'r', encoding="utf8")
+  Lines1 = file1.readlines()
+  inp_dataset = []
+  for i in range(len(Lines1)):
+    inp_dataset.append(Lines1[i].replace('\n', " "))
 
-  finaltrans += '\n \n \n output query decoded: \n'
-  finaltranso = decode(finaltranso)
-  finaltranso = fix_URI(finaltranso)
-  print("FIXED URI: ", finaltranso)
-  print('Decoded translation: {}'.format(finaltranso))
-  finaltrans += finaltranso
+  # finaltrans = "input query: \n"
+  # finaltrans += query
+
+  # finaltrans += "\n \n \n output query: \n"
+  for query in inp_dataset:
+    finaltranso = translate(query, input_dir, config, neural_mt)
+    finaltrans.append(finaltranso)
+
+  # finaltrans += '\n \n \n output query decoded: \n'
+  # finaltranso = decode(finaltranso)
+  # finaltranso = fix_URI(finaltranso)
+  # print("FIXED URI: ", finaltranso)
+  # print('Decoded translation: {}'.format(finaltranso))
+  # finaltrans += finaltranso
 
   outputfile = open((input_dir + '/output_query.txt'), 'w', encoding="utf8")
-  outputfile.writelines([finaltrans])
+  for trans in finaltrans:
+    outputfile.writelines(trans+"\n")
   outputfile.close()
 
 
@@ -161,10 +173,10 @@ if __name__ == '__main__':
   requiredNamed.add_argument(
       '--input', dest='input', metavar='inputDirectory', help='dataset directory', required=True)
   requiredNamed.add_argument(
-          '--query', dest='query', metavar='query', help='Input query in natural language', required=True)
+          '--query', dest='query', metavar='query', help='Input query in natural language', required=False)
 
   args = parser.parse_args()
   input_dir = args.input
   query = args.query
 
-  interpret(input_dir, query)
+  interpret(input_dir)

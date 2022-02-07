@@ -59,7 +59,7 @@ def data_gen(input_dir, output_dir, input_file):
     # convert(targ_lang, target_tensor_train[0])
     buffer_size = len(input_tensor_train)
     batch_size = 1
-    batch_accumulate_num = 32 # Gradient Accumulation parameter batch_size*batch_accumulate_num = effective batch_size
+    batch_accumulate_num = 16 # Gradient Accumulation parameter batch_size*batch_accumulate_num = effective batch_size
     steps_per_epoch = len(input_tensor_train) // batch_size
     steps_per_epoch = steps_per_epoch // batch_accumulate_num
     embedding_dim = 256
