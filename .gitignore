@@ -4,5 +4,10 @@ node_modules
 *.json
 *.log
 *.gz
+*.pkl
+*.bin
 __pycache__
 2019\ -\ Neural\ QA\ model/xmltodict.py
+2020\ -\ Neural\ QA\ model/xmltodict.py
+2019\ -\ Neural\ QA\ model/data/Monument_300/training_checkpoints/*
+2019\ -\ Neural\ QA\ model/data/Monument_300/training_log.txt
