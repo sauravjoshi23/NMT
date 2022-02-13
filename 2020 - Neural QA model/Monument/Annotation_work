@@ -1,0 +1,30 @@
+dbo:Monument;;;What is the architect of <A> ?;select ?x where { <A> dbo:architect ?x } ;select distinct(?a) where { ?a dbo:architect [] } ;1.1241403230735863e-05;Original; -1
+dbo:Monument;;;Who was the architect of <A> ?;select ?x where { <A>  dbo:architect ?x  } ;select distinct(?a) where { ?a dbo:architect []  } ;1.1241403230735863e-05;Paraphrased; 1
+dbo:Monument;;;What is the architectural style of <A> ?;select ?x where { <A> dbo:architecturalStyle ?x } ;select distinct(?a) where { ?a dbo:architecturalStyle [] } ;6.669635760720669e-07;Original; 1
+dbo:Monument;;;What does the Architectural style of <A> mean ?;select ?x where { <A>  dbo:architecturalStyle ?x  } ;select distinct(?a) where { ?a dbo:architecturalStyle []  } ;6.669635760720669e-07;Paraphrased; 1
+dbo:Monument;;;What is the building end year of <A> ?;select ?x where { <A> dbo:buildingEndYear ?x } ;select distinct(?a) where { ?a dbo:buildingEndYear [] } ;7.618058323954687e-06;Original; -1
+dbo:Monument;;;What is the end year of A Building <A> ?;select ?x where { <A>  dbo:buildingEndYear ?x  } ;select distinct(?a) where { ?a dbo:buildingEndYear []  } ;7.618058323954687e-06;Paraphrased; 0
+dbo:Monument;;;What is the building start year of <A> ?;select ?x where { <A> dbo:buildingStartYear ?x } ;select distinct(?a) where { ?a dbo:buildingStartYear [] } ;1.6867544738589111e-06;Original; -1
+dbo:Monument;;;What is the year of <A> ? What is the building start year ?;select ?x where { <A>  dbo:buildingStartYear ?x  } ;select distinct(?a) where { ?a dbo:buildingStartYear []  } ;1.6867544738589111e-06;Paraphrased; -1
+dbo:Monument;;;What is the construction material of <A> ?;select ?x where { <A> dbo:constructionMaterial ?x } ;select distinct(?a) where { ?a dbo:constructionMaterial [] } ;4.030051264956684e-06;Original; 0
+dbo:Monument;;;What is <A> construction material ?;select ?x where { <A>  dbo:constructionMaterial ?x  } ;select distinct(?a) where { ?a dbo:constructionMaterial []  } ;4.030051264956684e-06;Paraphrased; -1
+dbo:Monument;;;What is the currently used for of <A> ?;select ?x where { <A> dbo:currentlyUsedFor ?x } ;select distinct(?a) where { ?a dbo:currentlyUsedFor [] } ;1.304128010050569e-06;Original; -1
+dbo:Monument;;;What is the <A> currently used for ?;select ?x where { <A>  dbo:currentlyUsedFor ?x  } ;select distinct(?a) where { ?a dbo:currentlyUsedFor []  } ;1.304128010050569e-06;Paraphrased; 1
+dbo:Monument;;;When is the demolition date of <A> ?;select ?x where { <A> dbo:demolitionDate ?x } ;select distinct(?a) where { ?a dbo:demolitionDate [] } ;1.2115083399845296e-05;Original; 1
+dbo:Monument;;;When will demolition date of <A> ?;select ?x where { <A>  dbo:demolitionDate ?x } ;select distinct(?a) where { ?a dbo:demolitionDate []  } ;1.2115083399845296e-05;Paraphrased; -1
+dbo:Monument;;;What is the demolition year of <A> ?;select ?x where { <A> dbo:demolitionYear ?x } ;select distinct(?a) where { ?a dbo:demolitionYear [] } ;3.814866487086147e-06;Original; -1
+dbo:Monument;;;What year is demolition of <A> ?;select ?x where { <A>  dbo:demolitionYear ?x  } ;select distinct(?a) where { ?a dbo:demolitionYear []  } ;3.814866487086147e-06;Paraphrased; 0
+dbo:Monument;;;What is the maintained by of <A> ?;select ?x where { <A> dbo:maintainedBy ?x } ;select distinct(?a) where { ?a dbo:maintainedBy [] } ;2.6490957697494056e-06;Original; -1
+dbo:Monument;;;What do they maintain, at all, with <A> ?;select ?x where { <A>  dbo:maintainedBy ?x  } ;select distinct(?a) where { ?a dbo:maintainedBy []  } ;2.6490957697494056e-06;Paraphrased; 1
+dbo:Monument;;;When is the rebuilding date of <A> ?;select ?x where { <A> dbo:rebuildingDate ?x } ;select distinct(?a) where { ?a dbo:rebuildingDate [] } ;2.704976765061707e-06;Original; 0
+dbo:Monument;;;What is the date of rebuilding of <A> ?;select ?x where { <A>  dbo:rebuildingDate ?x } ;select distinct(?a) where { ?a dbo:rebuildingDate []  } ;2.704976765061707e-06;Paraphrased; 0
+dbo:Monument;;;What is the rebuilding year of <A> ?;select ?x where { <A> dbo:rebuildingYear ?x } ;select distinct(?a) where { ?a dbo:rebuildingYear [] } ;4.644078036789604e-07;Original; 0
+dbo:Monument;;;How was the rebuilding year of <A> ? What is some examples ?;select ?x where { <A>  dbo:rebuildingYear ?x  } ;select distinct(?a) where { ?a dbo:rebuildingYear []  } ;4.644078036789604e-07;Paraphrased; -1
+dbo:Monument;;;When is the reopening date of <A> ?;select ?x where { <A> dbo:reopeningDate ?x } ;select distinct(?a) where { ?a dbo:reopeningDate [] } ;6.633965029412374e-06;Original; 0
+dbo:Monument;;;When will <A> reopen ?;select ?x where { <A>  dbo:reopeningDate ?x } ;select distinct(?a) where { ?a dbo:reopeningDate []  } ;6.633965029412374e-06;Paraphrased; 1
+dbo:Monument;;;What is the tenant of <A> ?;select ?x where { <A> dbo:tenant ?x } ;select distinct(?a) where { ?a dbo:tenant [] } ;2.898644509913862e-06;Original; 0
+dbo:Monument;;;What exactly is tenant of <A> ?;select ?x where { <A>  dbo:tenant ?x  } ;select distinct(?a) where { ?a dbo:tenant []  } ;2.898644509913862e-06;Paraphrased; 1
+dbo:Monument;;;What is the visitor statistics as of of <A> ?;select ?x where { <A> dbo:visitorStatisticsAsOf ?x } ;select distinct(?a) where { ?a dbo:visitorStatisticsAsOf [] } ;5.898013440645297e-07;Original; -1
+dbo:Monument;;;What is <A> visitor statistics ?;select ?x where { <A>  dbo:visitorStatisticsAsOf ?x  } ;select distinct(?a) where { ?a dbo:visitorStatisticsAsOf []  } ;5.898013440645297e-07;Paraphrased; 1
+dbo:Monument;;;What is the visitor percentage change of <A> ?;select ?x where { <A> dbo:visitorsPercentageChange ?x } ;select distinct(?a) where { ?a dbo:visitorsPercentageChange [] } ;1.720076437821782e-07;Original; 0
+dbo:Monument;;;How is <A> visitor percentage change ?;select ?x where { <A>  dbo:visitorsPercentageChange ?x  } ;select distinct(?a) where { ?a dbo:visitorsPercentageChange []  } ;1.720076437821782e-07;Paraphrased; -1

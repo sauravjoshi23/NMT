@@ -12,7 +12,7 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 # pip install transformers==2.9.0
 from constant import Constant
 from textual_similarity import similarities, minDistance, words_distance, tags_distance, has_NNP, count_NNP
-from bert_classifier import load_model, predict
+from bert_classifier import predict
 
 const = Constant()
 
@@ -152,14 +152,11 @@ def pick_final_sentence_advanced(device, origin, candidates, model_dir=None):
     @param candidates: Paraphrased candidates
     @return: Final question picked from the candidates via a score ranking mechanism
     """
-    if model_dir:
-        model, tokenizer = load_model(model_dir, device)
-        text_pairs = []
-        for candidate in candidates:
-            text_pairs.append([origin, candidate])
-        pred_labels = predict(device, text_pairs, model, tokenizer)
-    else:  # If you dont have the model and dont want to include the adv sentence
-        return 0
+    text_pairs = []
+    for candidate in candidates:
+        text_pairs.append([origin, candidate])
+    pred_labels = predict(device, text_pairs)
+    print(pred_labels)
 
     max_score = 0
     final_sentence = ""

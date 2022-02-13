@@ -128,8 +128,7 @@ def basic_sentence_and_template_generator(prop_dic, test_set, log, mother_ontolo
         sparql_query.append(original_sparql)
 
     if (query_suffix == ""):
-        query_answer = (
-            "select distinct(?a) where { ?a a " + mother_ontology+" ; " + prop_link+" []  } ")
+        query_answer = ("select distinct(?a) where { ?a "+prop_link+" []  } ")
     else:
         query_answer = ("select distinct(?a) where { ?a " + query_suffix.split(" ")[
             0] + " [] . ?a  " + query_suffix + " " + prop_link + " ?x } ")

@@ -1,0 +1,31 @@
+Text,-1,0,1
+What is the architect of <A> ?,1,0,0
+Who was the architect of <A> ?,0,0,1
+What is the architectural style of <A> ?,0,0,1
+What does the Architectural style of <A> mean ?,0,0,1
+What is the building end year of <A> ?,1,0,0
+What is the end year of A Building <A> ?,0,1,0
+What is the building start year of <A> ?,1,0,0
+What is the year of <A> ? What is the building start year ?,1,0,0
+What is the construction material of <A> ?,0,1,0
+What is <A> construction material ?,1,0,0
+What is the currently used for of <A> ?,1,0,0
+What is the <A> currently used for ?,0,0,1
+When is the demolition date of <A> ?,0,0,1
+When will demolition date of <A> ?,1,0,0
+What is the demolition year of <A> ?,1,0,0
+What year is demolition of <A> ?,0,1,0
+What is the maintained by of <A> ?,1,0,0
+"What do they maintain, at all, with <A> ?",0,0,1
+When is the rebuilding date of <A> ?,0,1,0
+What is the date of rebuilding of <A> ?,0,1,0
+What is the rebuilding year of <A> ?,0,1,0
+How was the rebuilding year of <A> ? What is some examples ?,1,0,0
+When is the reopening date of <A> ?,0,1,0
+When will <A> reopen ?,0,0,1
+What is the tenant of <A> ?,0,1,0
+What exactly is tenant of <A> ?,0,0,1
+What is the visitor statistics as of of <A> ?,1,0,0
+What is <A> visitor statistics ?,0,0,1
+What is the visitor percentage change of <A> ?,0,1,0
+How is <A> visitor percentage change ?,1,0,0
