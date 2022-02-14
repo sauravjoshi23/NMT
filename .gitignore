@@ -6,8 +6,13 @@ node_modules
 *.gz
 *.pkl
 *.bin
+*.zip
 __pycache__
 2019\ -\ Neural\ QA\ model/xmltodict.py
 2020\ -\ Neural\ QA\ model/xmltodict.py
 2019\ -\ Neural\ QA\ model/data/Monument_300/training_checkpoints/*
 2019\ -\ Neural\ QA\ model/data/Monument_300/training_log.txt
+2020\ -\ Neural\ QA\ model/Monument/curr_ckpt
+2020\ -\ Neural\ QA\ model/Glove/*
+2020\ -\ Neural\ QA\ model/data/Monument_300/embed.en
+2020\ -\ Neural\ QA\ model/data/Monument_300_paraphrase/embed.en

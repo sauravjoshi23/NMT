@@ -1,3 +1,6 @@
 [submodule "2018 - Neural QA model/nmt"]
 	path = 2018 - Neural QA model/nmt
 	url = https://github.com/tensorflow/nmt.git
+[submodule "2020 - Neural QA model/GloVe"]
+	path = 2020 - Neural QA model/GloVe
+	url = https://github.com/stanfordnlp/GloVe.git
