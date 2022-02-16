@@ -74,7 +74,7 @@ def finetune_glove(project_path, glove_path="Glove/glove.6B.100d.txt", dimension
     finetune_glove = batch_finetune(finetune_glove, word_en[start:], dimension)
     unk = calculate_unknown(finetune_glove, dimension)
     finetune_glove["<UNK>"] = unk
-    with open(project_path+"/embed.en", "w") as w:
+    with open(project_path+"/embed"+str(dimension)+".en", "w") as w:
         for word in finetune_glove:
             w.write(word + " " + str(list(finetune_glove[word])).replace(
                 "[", "").replace("]", "").replace(",", "") + "\n")

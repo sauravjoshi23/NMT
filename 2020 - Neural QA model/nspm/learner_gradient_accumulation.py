@@ -80,9 +80,9 @@ def gradient_mean(SUM_GRADS, batch_accumulate_num):
 
 def learn(input_dir, output_dir, input_file, epochs, save_nmt=False):
 
-    dataset, vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, batch_accumulate_num, example_input_batch, steps_per_epoch, targ_lang, max_length_targ, max_length_inp, inp_lang = data_gen.data_gen(input_dir, output_dir, input_file)
+    dataset, vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, batch_accumulate_num, example_input_batch, steps_per_epoch, targ_lang, max_length_targ, max_length_inp, inp_lang, embedding_en, embedding_sparql = data_gen.data_gen(input_dir, output_dir, input_file)
 
-    config = NeuralMTConfig(vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, example_input_batch, max_length_targ, max_length_inp, inp_lang, targ_lang)
+    config = NeuralMTConfig(vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, example_input_batch, max_length_targ, max_length_inp, inp_lang, targ_lang, embedding_en, embedding_sparql)
     neural_mt = NeuralMT(config)
 
     encoder, decoder, checkpoint = neural_mt.encoder, neural_mt.decoder, neural_mt.checkpoint

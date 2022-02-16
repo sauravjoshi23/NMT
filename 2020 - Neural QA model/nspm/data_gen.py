@@ -10,10 +10,11 @@ Version 2.0.0
 
 """
 import argparse
+from json import load
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
 
-from prepare_dataset import load_dataset, convert
+from prepare_dataset import load_dataset, convert, load_glove_embeddings, create_embedding_matrix, maxlength
 
 
 global output_direc
@@ -62,12 +63,27 @@ def data_gen(input_dir, output_dir, input_file):
     batch_accumulate_num = 16 # Gradient Accumulation parameter batch_size*batch_accumulate_num = effective batch_size
     steps_per_epoch = len(input_tensor_train) // batch_size
     steps_per_epoch = steps_per_epoch // batch_accumulate_num
-    embedding_dim = 256
+    embedding_dim = 300
     units = 512
     vocab_inp_size = len(inp_lang.word_index) + 1
     vocab_tar_size = len(targ_lang.word_index) + 1
     print("Vocab Inp Size: ", vocab_inp_size)
     print("Vocab Tar Size: ", vocab_tar_size)
+
+    # MAXLEN_en = maxlength(input_tensor)
+    # MAXLEN_sparql = maxlength(target_tensor)
+    MAXLEN_en = 300
+    MAXLEN_sparql = 300
+
+    # print(MAXLEN_en, MAXLEN_sparql)
+
+    embedding_dict_en = load_glove_embeddings('data/Monument_300/embed300.en')
+    embedding__dict_sparql = load_glove_embeddings('data/Monument_300/embed300.sparql')
+    print('Embeddings Loaded')
+
+    embedding_en = create_embedding_matrix(embedding_dict_en, vocab_inp_size, MAXLEN_en, inp_lang)
+    embedding_sparql = create_embedding_matrix(embedding__dict_sparql, vocab_tar_size, MAXLEN_sparql, targ_lang)
+    print('Embedding Matrix Created')
 
     dataset = tf.data.Dataset.from_tensor_slices((input_tensor_train, target_tensor_train)).shuffle(buffer_size)
     dataset = dataset.batch(batch_size, drop_remainder=True)
@@ -75,7 +91,7 @@ def data_gen(input_dir, output_dir, input_file):
     print("Batch Size: ", batch_size)
     print("Length of Dataset: ", len(dataset))
 
-    return dataset, vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, batch_accumulate_num, example_input_batch, steps_per_epoch, targ_lang, max_length_targ, max_length_inp, inp_lang
+    return dataset, vocab_inp_size, vocab_tar_size, embedding_dim, units, batch_size, batch_accumulate_num, example_input_batch, steps_per_epoch, targ_lang, max_length_targ, max_length_inp, inp_lang, embedding_en, embedding_sparql
 
 
 if __name__ == '__main__':

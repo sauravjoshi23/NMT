@@ -1,0 +1,378 @@
+What is the architect of united states post office–williamstown main ? 	 select var_x where brack_open dbr_United_States_Post_Office–Williamstown_Main dbo_architect var_x brack_close
+What is the architect of grefsen church ? 	 select var_x where brack_open dbr_Grefsen_Church dbo_architect var_x brack_close
+What is the architect of colorado state capitol ? 	 select var_x where brack_open dbr_Colorado_State_Capitol dbo_architect var_x brack_close
+What is the architect of islesford historical museum and blue duck ships store ? 	 select var_x where brack_open dbr_Islesford_Historical_Museum_and_Blue_Duck_Ships_Store dbo_architect var_x brack_close
+What is the architect of deepwood house ? 	 select var_x where brack_open dbr_Deepwood_House dbo_architect var_x brack_close
+What is the architect of fellsmere public school ? 	 select var_x where brack_open dbr_Fellsmere_Public_School dbo_architect var_x brack_close
+What is the architect of united states courthouse ? 	 select var_x where brack_open dbr_United_States_Courthouse_(Des_Moines) dbo_architect var_x brack_close
+What is the architect of st luke's church ? 	 select var_x where brack_open dbr_St_Luke's_Church,_Winmarleigh dbo_architect var_x brack_close
+What is the architect of united states post office–woburn center station ? 	 select var_x where brack_open dbr_United_States_Post_Office–Woburn_Center_Station dbo_architect var_x brack_close
+What is the architect of tomb of ferdowsi ? 	 select var_x where brack_open dbr_Tomb_of_Ferdowsi dbo_architect var_x brack_close
+What is the architect of dickies arena ? 	 select var_x where brack_open dbr_Dickies_Arena dbo_architect var_x brack_close
+What is the architect of holiday inn express riverwalk area ? 	 select var_x where brack_open dbr_Holiday_Inn_Express_Riverwalk_Area dbo_architect var_x brack_close
+What is the architect of max rosenthal tenement in bydgoszcz ? 	 select var_x where brack_open dbr_Max_Rosenthal_Tenement_in_Bydgoszcz dbo_architect var_x brack_close
+What is the architect of kaiser center ? 	 select var_x where brack_open dbr_Kaiser_Center dbo_architect var_x brack_close
+What is the architect of vila operária da gamboa ? 	 select var_x where brack_open dbr_Vila_Operária_da_Gamboa dbo_architect var_x brack_close
+What is the architect of factory house ? 	 select var_x where brack_open dbr_Factory_House dbo_architect var_x brack_close
+What is the architect of renoma ? 	 select var_x where brack_open dbr_Renoma_(Wrocław) dbo_architect var_x brack_close
+What is the architect of sunsphere ? 	 select var_x where brack_open dbr_Sunsphere dbo_architect var_x brack_close
+What is the architect of hospitalfield house ? 	 select var_x where brack_open dbr_Hospitalfield_House dbo_architect var_x brack_close
+What is the architect of iglesia ni cristo chapel ? 	 select var_x where brack_open dbr_Iglesia_ni_Cristo_chapel,_F._Manalo-San_Juan dbo_architect var_x brack_close
+What is the architect of gillette stadium ? 	 select var_x where brack_open dbr_Gillette_Stadium dbo_architect var_x brack_close
+What is the architect of oklahoma governor's mansion ? 	 select var_x where brack_open dbr_Oklahoma_Governor's_Mansion dbo_architect var_x brack_close
+What is the architect of gov. samuel j. tilden monument ? 	 select var_x where brack_open dbr_Gov._Samuel_J._Tilden_Monument dbo_architect var_x brack_close
+What is the architect of mount auburn cemetery ? 	 select var_x where brack_open dbr_Mount_Auburn_Cemetery dbo_architect var_x brack_close
+What is the architect of standedge tunnels ? 	 select var_x where brack_open dbr_Standedge_Tunnels dbo_architect var_x brack_close
+What is the architect of national theatre of japan ? 	 select var_x where brack_open dbr_National_Theatre_of_Japan dbo_architect var_x brack_close
+What is the architect of kimpton clocktower hotel ? 	 select var_x where brack_open dbr_Kimpton_Clocktower_Hotel dbo_architect var_x brack_close
+What is the architect of pauley pavilion ? 	 select var_x where brack_open dbr_Pauley_Pavilion dbo_architect var_x brack_close
+What is the architect of gallatin county high school ? 	 select var_x where brack_open dbr_Gallatin_County_High_School_(Bozeman,_Montana) dbo_architect var_x brack_close
+What is the architect of the pano ? 	 select var_x where brack_open dbr_The_Pano dbo_architect var_x brack_close
+What is the architect of springdale historic district ? 	 select var_x where brack_open dbr_Springdale_Historic_District_(York,_Pennsylvania) dbo_architect var_x brack_close
+What is the architect of ulriksdal palace ? 	 select var_x where brack_open dbr_Ulriksdal_Palace dbo_architect var_x brack_close
+What is the architect of saint john's evangelical lutheran church ? 	 select var_x where brack_open dbr_Saint_John's_Evangelical_Lutheran_Church_(Milwaukee,_Wisconsin) dbo_architect var_x brack_close
+What is the architect of minnesota home school for girls ? 	 select var_x where brack_open dbr_Minnesota_Home_School_for_Girls dbo_architect var_x brack_close
+What is the architect of cathedral of the blessed sacrament ? 	 select var_x where brack_open dbr_Cathedral_of_the_Blessed_Sacrament_(Altoona,_Pennsylvania) dbo_architect var_x brack_close
+What is the architect of allanoke manor ? 	 select var_x where brack_open dbr_Allanoke_Manor dbo_architect var_x brack_close
+What is the architect of stonecrest ? 	 select var_x where brack_open dbr_Stonecrest_(Bedford_Corners,_New_York) dbo_architect var_x brack_close
+What is the architect of rutherford county courthouse ? 	 select var_x where brack_open dbr_Rutherford_County_Courthouse_(North_Carolina) dbo_architect var_x brack_close
+What is the architect of old polk county courthouse ? 	 select var_x where brack_open dbr_Old_Polk_County_Courthouse_(Florida) dbo_architect var_x brack_close
+What is the architect of st michael and all angels' church ? 	 select var_x where brack_open dbr_St_Michael_and_All_Angels'_Church,_Littlethorpe dbo_architect var_x brack_close
+What is the architectural style of fellsmere public school ? 	 select var_x where brack_open dbr_Fellsmere_Public_School dbo_architecturalStyle var_x brack_close
+What is the architectural style of hills memorial library ? 	 select var_x where brack_open dbr_Hills_Memorial_Library dbo_architecturalStyle var_x brack_close
+What is the architectural style of general post office ? 	 select var_x where brack_open dbr_General_Post_Office,_London dbo_architecturalStyle var_x brack_close
+What is the architectural style of van wert county courthouse ? 	 select var_x where brack_open dbr_Van_Wert_County_Courthouse dbo_architecturalStyle var_x brack_close
+What is the architectural style of masonic temple ? 	 select var_x where brack_open dbr_Masonic_Temple_(Yuma,_Arizona) dbo_architecturalStyle var_x brack_close
+What is the architectural style of busse house ? 	 select var_x where brack_open dbr_Busse_House dbo_architecturalStyle var_x brack_close
+What is the architectural style of san giuseppe a chiaia ? 	 select var_x where brack_open dbr_San_Giuseppe_a_Chiaia dbo_architecturalStyle var_x brack_close
+What is the architectural style of john brand sr. house ? 	 select var_x where brack_open dbr_John_Brand_Sr._House dbo_architecturalStyle var_x brack_close
+What is the architectural style of st alban's church ? 	 select var_x where brack_open dbr_St_Alban's_Church,_Broadheath dbo_architecturalStyle var_x brack_close
+What is the architectural style of fort rosalie ? 	 select var_x where brack_open dbr_Fort_Rosalie dbo_architecturalStyle var_x brack_close
+What is the architectural style of 820 olive ? 	 select var_x where brack_open dbr_820_Olive dbo_architecturalStyle var_x brack_close
+What is the architectural style of old union depot hotel ? 	 select var_x where brack_open dbr_Old_Union_Depot_Hotel dbo_architecturalStyle var_x brack_close
+What is the architectural style of odd fellows hall ? 	 select var_x where brack_open dbr_Odd_Fellows_Hall_(New_York_City) dbo_architecturalStyle var_x brack_close
+What is the architectural style of 90 church street ? 	 select var_x where brack_open dbr_90_Church_Street dbo_architecturalStyle var_x brack_close
+What is the architectural style of bedford historic district ? 	 select var_x where brack_open dbr_Bedford_Historic_District_(Bedford,_Pennsylvania) dbo_architecturalStyle var_x brack_close
+What is the architectural style of cheatham county courthouse ? 	 select var_x where brack_open dbr_Cheatham_County_Courthouse dbo_architecturalStyle var_x brack_close
+What is the architectural style of st. john's episcopal church ? 	 select var_x where brack_open dbr_St._John's_Episcopal_Church_(Worthington,_Ohio) dbo_architecturalStyle var_x brack_close
+What is the architectural style of james smith house ? 	 select var_x where brack_open dbr_James_Smith_House_(Davenport,_Iowa) dbo_architecturalStyle var_x brack_close
+What is the architectural style of william gray warden house ? 	 select var_x where brack_open dbr_William_Gray_Warden_House dbo_architecturalStyle var_x brack_close
+What is the architectural style of robert colgate house ? 	 select var_x where brack_open dbr_Robert_Colgate_House dbo_architecturalStyle var_x brack_close
+What is the architectural style of casino estoril ? 	 select var_x where brack_open dbr_Casino_Estoril dbo_architecturalStyle var_x brack_close
+What is the architectural style of willis presbyterian church and cemetery ? 	 select var_x where brack_open dbr_Willis_Presbyterian_Church_and_Cemetery dbo_architecturalStyle var_x brack_close
+What is the architectural style of connecticut hall ? 	 select var_x where brack_open dbr_Connecticut_Hall dbo_architecturalStyle var_x brack_close
+What is the architectural style of washington county courthouse ? 	 select var_x where brack_open dbr_Washington_County_Courthouse_(Arkansas) dbo_architecturalStyle var_x brack_close
+What is the architectural style of auxerre cathedral ? 	 select var_x where brack_open dbr_Auxerre_Cathedral dbo_architecturalStyle var_x brack_close
+What is the architectural style of st mary's church ? 	 select var_x where brack_open dbr_St_Mary's_Church,_Llanfair-yng-Nghornwy dbo_architecturalStyle var_x brack_close
+What is the architectural style of fossati's delicatessen ? 	 select var_x where brack_open dbr_Fossati's_Delicatessen dbo_architecturalStyle var_x brack_close
+What is the architectural style of the meadows ? 	 select var_x where brack_open dbr_The_Meadows_(Moorefield,_West_Virginia) dbo_architecturalStyle var_x brack_close
+What is the architectural style of memorial union ? 	 select var_x where brack_open dbr_Memorial_Union_(Wisconsin) dbo_architecturalStyle var_x brack_close
+What is the architectural style of jose eusebio boronda adobe ? 	 select var_x where brack_open dbr_Jose_Eusebio_Boronda_Adobe dbo_architecturalStyle var_x brack_close
+What is the architectural style of loucks grove church ? 	 select var_x where brack_open dbr_Loucks_Grove_Church dbo_architecturalStyle var_x brack_close
+What is the architectural style of town hall of benfeld ? 	 select var_x where brack_open dbr_Town_Hall_of_Benfeld dbo_architecturalStyle var_x brack_close
+What is the building end year of horda tunnel ? 	 select var_x where brack_open dbr_Horda_Tunnel dbo_buildingEndYear var_x brack_close
+What is the building end year of north river tunnels ? 	 select var_x where brack_open dbr_North_River_Tunnels dbo_buildingEndYear var_x brack_close
+What is the building end year of l'épine tunnel ? 	 select var_x where brack_open dbr_L'Épine_Tunnel dbo_buildingEndYear var_x brack_close
+What is the building end year of queensway tunnel ? 	 select var_x where brack_open dbr_Queensway_tunnel dbo_buildingEndYear var_x brack_close
+What is the building end year of bruce tunnel ? 	 select var_x where brack_open dbr_Bruce_Tunnel dbo_buildingEndYear var_x brack_close
+What is the building start year of wuhan yangtze river tunnel ? 	 select var_x where brack_open dbr_Wuhan_Yangtze_River_Tunnel dbo_buildingStartYear var_x brack_close
+What is the building start year of nanjing dinghuaimen yangtze river tunnel ? 	 select var_x where brack_open dbr_Nanjing_Dinghuaimen_Yangtze_River_Tunnel dbo_buildingStartYear var_x brack_close
+What is the building start year of l'épine tunnel ? 	 select var_x where brack_open dbr_L'Épine_Tunnel dbo_buildingStartYear var_x brack_close
+What is the building start year of merritton tunnel ? 	 select var_x where brack_open dbr_Merritton_Tunnel dbo_buildingStartYear var_x brack_close
+What is the building start year of foulridge tunnel ? 	 select var_x where brack_open dbr_Foulridge_Tunnel dbo_buildingStartYear var_x brack_close
+What is the building start year of laurel hill tunnel ? 	 select var_x where brack_open dbr_Laurel_Hill_Tunnel dbo_buildingStartYear var_x brack_close
+What is the building start year of tsuruga nuclear power plant ? 	 select var_x where brack_open dbr_Tsuruga_Nuclear_Power_Plant dbo_buildingStartYear var_x brack_close
+What is the building start year of nogent nuclear power plant ? 	 select var_x where brack_open dbr_Nogent_Nuclear_Power_Plant dbo_buildingStartYear var_x brack_close
+What is the building start year of ranganadi dam ? 	 select var_x where brack_open dbr_Ranganadi_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of chixoy hydroelectric dam ? 	 select var_x where brack_open dbr_Chixoy_Hydroelectric_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of bağıştaş 1 dam ? 	 select var_x where brack_open dbr_Bağıştaş_1_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of luiz gonzaga dam ? 	 select var_x where brack_open dbr_Luiz_Gonzaga_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of daecheong dam ? 	 select var_x where brack_open dbr_Daecheong_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of bergrat müller pond ? 	 select var_x where brack_open dbr_Bergrat_Müller_Pond dbo_buildingStartYear var_x brack_close
+What is the building start year of upper anaicut ? 	 select var_x where brack_open dbr_Upper_Anaicut dbo_buildingStartYear var_x brack_close
+What is the building start year of folsom dam ? 	 select var_x where brack_open dbr_Folsom_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of lam phra phloeng dam ? 	 select var_x where brack_open dbr_Lam_Phra_Phloeng_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of hindmarsh valley reservoir ? 	 select var_x where brack_open dbr_Hindmarsh_Valley_Reservoir dbo_buildingStartYear var_x brack_close
+What is the building start year of dworshak dam ? 	 select var_x where brack_open dbr_Dworshak_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of tingzikou dam ? 	 select var_x where brack_open dbr_Tingzikou_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of taisetsu dam ? 	 select var_x where brack_open dbr_Taisetsu_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of quweira solar power plant ? 	 select var_x where brack_open dbr_Quweira_Solar_Power_Plant dbo_buildingStartYear var_x brack_close
+What is the building start year of pyramid dam ? 	 select var_x where brack_open dbr_Pyramid_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of south holston dam ? 	 select var_x where brack_open dbr_South_Holston_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of rabigh 2 ipp ? 	 select var_x where brack_open dbr_Rabigh_2_IPP dbo_buildingStartYear var_x brack_close
+What is the building start year of ohara dam ? 	 select var_x where brack_open dbr_Ohara_Dam dbo_buildingStartYear var_x brack_close
+What is the building start year of st. lucie nuclear power plant ? 	 select var_x where brack_open dbr_St._Lucie_Nuclear_Power_Plant dbo_buildingStartYear var_x brack_close
+What is the building start year of gosling creek dam ? 	 select var_x where brack_open dbr_Gosling_Creek_Dam dbo_buildingStartYear var_x brack_close
+What is the construction material of lal mandi footbridge ? 	 select var_x where brack_open dbr_Lal_Mandi_Footbridge dbo_constructionMaterial var_x brack_close
+What is the construction material of cut river bridge ? 	 select var_x where brack_open dbr_Cut_River_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of high bridge ? 	 select var_x where brack_open dbr_High_Bridge,_Reading dbo_constructionMaterial var_x brack_close
+What is the construction material of lipwood railway bridge ? 	 select var_x where brack_open dbr_Lipwood_Railway_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of macquarie river railway bridge ? 	 select var_x where brack_open dbr_Macquarie_River_railway_bridge,_Dubbo dbo_constructionMaterial var_x brack_close
+What is the construction material of cathedral bridge ? 	 select var_x where brack_open dbr_Cathedral_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of teston bridge ? 	 select var_x where brack_open dbr_Teston_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of allegheny aqueduct ? 	 select var_x where brack_open dbr_Allegheny_Aqueduct_(Pittsburgh) dbo_constructionMaterial var_x brack_close
+What is the construction material of arkadiko bridge ? 	 select var_x where brack_open dbr_Arkadiko_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of schell bridge ? 	 select var_x where brack_open dbr_Schell_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of frog bridge ? 	 select var_x where brack_open dbr_Frog_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of redbrook incline bridge ? 	 select var_x where brack_open dbr_Redbrook_Incline_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of stone bridge ? 	 select var_x where brack_open dbr_Stone_Bridge_(Johnstown,_Pennsylvania) dbo_constructionMaterial var_x brack_close
+What is the construction material of ponte dei tre archi ? 	 select var_x where brack_open dbr_Ponte_dei_Tre_Archi dbo_constructionMaterial var_x brack_close
+What is the construction material of san michele bridge ? 	 select var_x where brack_open dbr_San_Michele_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of kirkdale bridge ? 	 select var_x where brack_open dbr_Kirkdale_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of bridge of lies ? 	 select var_x where brack_open dbr_Bridge_of_Lies dbo_constructionMaterial var_x brack_close
+What is the construction material of old dee bridge ? 	 select var_x where brack_open dbr_Old_Dee_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of hayden bridge ? 	 select var_x where brack_open dbr_Hayden_Bridge_(Springfield,_Oregon) dbo_constructionMaterial var_x brack_close
+What is the construction material of adam viaduct ? 	 select var_x where brack_open dbr_Adam_Viaduct dbo_constructionMaterial var_x brack_close
+What is the construction material of colorado street bridge ? 	 select var_x where brack_open dbr_Colorado_Street_Bridge_(Pasadena,_California) dbo_constructionMaterial var_x brack_close
+What is the construction material of isleton bridge ? 	 select var_x where brack_open dbr_Isleton_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of cổ chiên bridge ? 	 select var_x where brack_open dbr_Cổ_Chiên_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of sam white bridge ? 	 select var_x where brack_open dbr_Sam_White_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of ponte della magliana ? 	 select var_x where brack_open dbr_Ponte_della_Magliana dbo_constructionMaterial var_x brack_close
+What is the construction material of alvord lake bridge ? 	 select var_x where brack_open dbr_Alvord_Lake_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of lake hodges bridge ? 	 select var_x where brack_open dbr_Lake_Hodges_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of candaba viaduct ? 	 select var_x where brack_open dbr_Candaba_Viaduct dbo_constructionMaterial var_x brack_close
+What is the construction material of jackson boulevard bridge ? 	 select var_x where brack_open dbr_Jackson_Boulevard_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of long gully bridge ? 	 select var_x where brack_open dbr_Long_Gully_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of caerhowel bridge ? 	 select var_x where brack_open dbr_Caerhowel_Bridge dbo_constructionMaterial var_x brack_close
+What is the construction material of langwieser viaduct ? 	 select var_x where brack_open dbr_Langwieser_Viaduct dbo_constructionMaterial var_x brack_close
+What is the construction material of ponte flaminio ? 	 select var_x where brack_open dbr_Ponte_Flaminio_(Rome) dbo_constructionMaterial var_x brack_close
+What is the currently used for of musical theatre karlín ? 	 select var_x where brack_open dbr_Musical_Theatre_Karlín dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of valka town theatre ? 	 select var_x where brack_open dbr_Valka_Town_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of ambassador cinema ? 	 select var_x where brack_open dbr_Ambassador_Cinema dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of the deco ? 	 select var_x where brack_open dbr_The_Deco dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of hanna theatre ? 	 select var_x where brack_open dbr_Hanna_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of ohio theatre ? 	 select var_x where brack_open dbr_Ohio_Theatre_(Cleveland,_Ohio) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of music hall center for the performing arts ? 	 select var_x where brack_open dbr_Music_Hall_Center_for_the_Performing_Arts dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of darwin entertainment centre ? 	 select var_x where brack_open dbr_Darwin_Entertainment_Centre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of saban theatre ? 	 select var_x where brack_open dbr_Saban_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of trocadero theatre ? 	 select var_x where brack_open dbr_Trocadero_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of mississippi nights ? 	 select var_x where brack_open dbr_Mississippi_Nights dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of ramazanoğlu cultural center ? 	 select var_x where brack_open dbr_Ramazanoğlu_Cultural_Center dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of kingdom of dreams ? 	 select var_x where brack_open dbr_Kingdom_of_Dreams dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of benedum center ? 	 select var_x where brack_open dbr_Benedum_Center dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of palace theatre ? 	 select var_x where brack_open dbr_Palace_Theatre_(New_York_City) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of moore theatre ? 	 select var_x where brack_open dbr_Moore_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of orpheum theatre ? 	 select var_x where brack_open dbr_Orpheum_Theatre_(Los_Angeles) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of jefferson theater ? 	 select var_x where brack_open dbr_Jefferson_Theater_(Virginia) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of united palace ? 	 select var_x where brack_open dbr_United_Palace dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of the round ? 	 select var_x where brack_open dbr_The_Round dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of the cut ? 	 select var_x where brack_open dbr_The_Cut_(theatre) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of bogart's ? 	 select var_x where brack_open dbr_Bogart's dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of carver theater ? 	 select var_x where brack_open dbr_Carver_Theater_(New_Orleans) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of cascade theatre ? 	 select var_x where brack_open dbr_Cascade_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of former trinity methodist church ? 	 select var_x where brack_open dbr_Former_Trinity_Methodist_Church,_Dunedin dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of futurist theatre ? 	 select var_x where brack_open dbr_Futurist_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of iași athenaeum ? 	 select var_x where brack_open dbr_Iași_Athenaeum dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of royal oak music theatre ? 	 select var_x where brack_open dbr_Royal_Oak_Music_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of lindenberg nijmegen culture house ? 	 select var_x where brack_open dbr_Lindenberg_Nijmegen_Culture_House dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of charing cross music hall ? 	 select var_x where brack_open dbr_Charing_Cross_Music_Hall dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of landmark theatre ? 	 select var_x where brack_open dbr_Landmark_Theatre_(Syracuse,_New_York) dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of rko proctor's theater ? 	 select var_x where brack_open dbr_RKO_Proctor's_Theater,_New_Rochelle dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of vanderbilt theatre ? 	 select var_x where brack_open dbr_Vanderbilt_Theatre dbo_currentlyUsedFor var_x brack_close
+What is the currently used for of edificio herdocia ? 	 select var_x where brack_open dbr_Edificio_Herdocia dbo_currentlyUsedFor var_x brack_close
+When is the demolition date of new haven coliseum ? 	 select var_x where brack_open dbr_New_Haven_Coliseum dbo_demolitionDate var_x brack_close
+When is the demolition date of don valley stadium ? 	 select var_x where brack_open dbr_Don_Valley_Stadium dbo_demolitionDate var_x brack_close
+When is the demolition date of university hall ? 	 select var_x where brack_open dbr_University_Hall_(University_of_Virginia) dbo_demolitionDate var_x brack_close
+When is the demolition date of busch memorial stadium ? 	 select var_x where brack_open dbr_Busch_Memorial_Stadium dbo_demolitionDate var_x brack_close
+When is the demolition date of nene park ? 	 select var_x where brack_open dbr_Nene_Park dbo_demolitionDate var_x brack_close
+When is the demolition date of old blenheim bridge ? 	 select var_x where brack_open dbr_Old_Blenheim_Bridge dbo_demolitionDate var_x brack_close
+When is the demolition date of fort ellis ? 	 select var_x where brack_open dbr_Fort_Ellis dbo_demolitionDate var_x brack_close
+When is the demolition date of mandovi bridge ? 	 select var_x where brack_open dbr_Mandovi_Bridge_(Goa) dbo_demolitionDate var_x brack_close
+When is the demolition date of brown county veterans memorial arena ? 	 select var_x where brack_open dbr_Brown_County_Veterans_Memorial_Arena dbo_demolitionDate var_x brack_close
+When is the demolition date of st. agnes church ? 	 select var_x where brack_open dbr_St._Agnes_Church_(New_York_City) dbo_demolitionDate var_x brack_close
+When is the demolition date of omaha athletic club ? 	 select var_x where brack_open dbr_Omaha_Athletic_Club dbo_demolitionDate var_x brack_close
+When is the demolition date of japanese general government building ? 	 select var_x where brack_open dbr_Japanese_General_Government_Building,_Seoul dbo_demolitionDate var_x brack_close
+When is the demolition date of gourgion tower ? 	 select var_x where brack_open dbr_Gourgion_Tower dbo_demolitionDate var_x brack_close
+When is the demolition date of universal amphitheatre ? 	 select var_x where brack_open dbr_Universal_Amphitheatre dbo_demolitionDate var_x brack_close
+When is the demolition date of incheon sungui stadium ? 	 select var_x where brack_open dbr_Incheon_Sungui_Stadium dbo_demolitionDate var_x brack_close
+When is the demolition date of san mamés stadium ? 	 select var_x where brack_open dbr_San_Mamés_Stadium_(1913) dbo_demolitionDate var_x brack_close
+When is the demolition date of the palace of auburn hills ? 	 select var_x where brack_open dbr_The_Palace_of_Auburn_Hills dbo_demolitionDate var_x brack_close
+When is the demolition date of market square arena ? 	 select var_x where brack_open dbr_Market_Square_Arena dbo_demolitionDate var_x brack_close
+When is the demolition date of gudeok baseball stadium ? 	 select var_x where brack_open dbr_Gudeok_Baseball_Stadium dbo_demolitionDate var_x brack_close
+When is the demolition date of ho tung gardens ? 	 select var_x where brack_open dbr_Ho_Tung_Gardens dbo_demolitionDate var_x brack_close
+When is the demolition date of new york velodrome ? 	 select var_x where brack_open dbr_New_York_Velodrome dbo_demolitionDate var_x brack_close
+When is the demolition date of kierbedź bridge ? 	 select var_x where brack_open dbr_Kierbedź_Bridge dbo_demolitionDate var_x brack_close
+What is the demolition year of teton dam ? 	 select var_x where brack_open dbr_Teton_Dam dbo_demolitionYear var_x brack_close
+What is the demolition year of spencer dam ? 	 select var_x where brack_open dbr_Spencer_Dam dbo_demolitionYear var_x brack_close
+What is the maintained by of avonmouth bridge ? 	 select var_x where brack_open dbr_Avonmouth_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of harrison avenue bridge ? 	 select var_x where brack_open dbr_Harrison_Avenue_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of buntun bridge ? 	 select var_x where brack_open dbr_Buntun_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of tsing ma bridge ? 	 select var_x where brack_open dbr_Tsing_Ma_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of teston bridge ? 	 select var_x where brack_open dbr_Teston_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of maitri setu ? 	 select var_x where brack_open dbr_Maitri_Setu dbo_maintainedBy var_x brack_close
+What is the maintained by of castielertobel viaduct ? 	 select var_x where brack_open dbr_Castielertobel_Viaduct dbo_maintainedBy var_x brack_close
+What is the maintained by of ayala bridge ? 	 select var_x where brack_open dbr_Ayala_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of canada square ? 	 select var_x where brack_open dbr_Canada_Square dbo_maintainedBy var_x brack_close
+What is the maintained by of laredo–colombia solidarity international bridge ? 	 select var_x where brack_open dbr_Laredo–Colombia_Solidarity_International_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of cape cod canal railroad bridge ? 	 select var_x where brack_open dbr_Cape_Cod_Canal_Railroad_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of kościuszko square in białystok ? 	 select var_x where brack_open dbr_Kościuszko_Square_in_Białystok dbo_maintainedBy var_x brack_close
+What is the maintained by of lexington avenue ? 	 select var_x where brack_open dbr_Lexington_Avenue dbo_maintainedBy var_x brack_close
+What is the maintained by of mark morris memorial bridge ? 	 select var_x where brack_open dbr_Mark_Morris_Memorial_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of raymore drive ? 	 select var_x where brack_open dbr_Raymore_Drive dbo_maintainedBy var_x brack_close
+What is the maintained by of donegall road ? 	 select var_x where brack_open dbr_Donegall_Road dbo_maintainedBy var_x brack_close
+What is the maintained by of erez crossing ? 	 select var_x where brack_open dbr_Erez_Crossing dbo_maintainedBy var_x brack_close
+What is the maintained by of christopher s. bond bridge ? 	 select var_x where brack_open dbr_Christopher_S._Bond_Bridge_(Kansas_City,_Missouri) dbo_maintainedBy var_x brack_close
+What is the maintained by of hammond pond parkway ? 	 select var_x where brack_open dbr_Hammond_Pond_Parkway dbo_maintainedBy var_x brack_close
+What is the maintained by of nagtahan interchange ? 	 select var_x where brack_open dbr_Nagtahan_Interchange dbo_maintainedBy var_x brack_close
+What is the maintained by of 4th street ? 	 select var_x where brack_open dbr_4th_Street_(Manhattan) dbo_maintainedBy var_x brack_close
+What is the maintained by of ward circle ? 	 select var_x where brack_open dbr_Ward_Circle dbo_maintainedBy var_x brack_close
+What is the maintained by of goondiwindi border bridge ? 	 select var_x where brack_open dbr_Goondiwindi_Border_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of louisiana highway 1 bridge ? 	 select var_x where brack_open dbr_Louisiana_Highway_1_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of elkhorn road ? 	 select var_x where brack_open dbr_Elkhorn_Road dbo_maintainedBy var_x brack_close
+What is the maintained by of lethbridge viaduct ? 	 select var_x where brack_open dbr_Lethbridge_Viaduct dbo_maintainedBy var_x brack_close
+What is the maintained by of remedios circle ? 	 select var_x where brack_open dbr_Remedios_Circle dbo_maintainedBy var_x brack_close
+What is the maintained by of lewiston–queenston bridge ? 	 select var_x where brack_open dbr_Lewiston–Queenston_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of theodore roosevelt lake bridge ? 	 select var_x where brack_open dbr_Theodore_Roosevelt_Lake_Bridge dbo_maintainedBy var_x brack_close
+What is the maintained by of prangin road ? 	 select var_x where brack_open dbr_Prangin_Road,_George_Town dbo_maintainedBy var_x brack_close
+When is the rebuilding date of faliro metro station ? 	 select var_x where brack_open dbr_Faliro_metro_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of gyöngyösi utca metro station ? 	 select var_x where brack_open dbr_Gyöngyösi_utca_metro_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of werribee railway station ? 	 select var_x where brack_open dbr_Werribee_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of county center/little italy station ? 	 select var_x where brack_open dbr_County_Center/Little_Italy_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of cannington greyhounds ? 	 select var_x where brack_open dbr_Cannington_Greyhounds dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of kolsås station ? 	 select var_x where brack_open dbr_Kolsås_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of ardeer railway station ? 	 select var_x where brack_open dbr_Ardeer_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of poinciana station ? 	 select var_x where brack_open dbr_Poinciana_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of concord west railway station ? 	 select var_x where brack_open dbr_Concord_West_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of salisbury railway station ? 	 select var_x where brack_open dbr_Salisbury_railway_station,_Adelaide dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of yongkang railway station ? 	 select var_x where brack_open dbr_Yongkang_railway_station_(Taiwan) dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of millbrae station ? 	 select var_x where brack_open dbr_Millbrae_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of bhaichung stadium ? 	 select var_x where brack_open dbr_Bhaichung_Stadium dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of 46th street station ? 	 select var_x where brack_open dbr_46th_Street_station_(SEPTA) dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of 8th street station ? 	 select var_x where brack_open dbr_8th_Street_station_(Philadelphia) dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of broken hill railway station ? 	 select var_x where brack_open dbr_Broken_Hill_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of jungfernstieg station ? 	 select var_x where brack_open dbr_Jungfernstieg_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of jamesport station ? 	 select var_x where brack_open dbr_Jamesport_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of osasco ? 	 select var_x where brack_open dbr_Osasco_(CPTM) dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of dynamo training center ? 	 select var_x where brack_open dbr_Dynamo_Training_Center dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of nunawading railway station ? 	 select var_x where brack_open dbr_Nunawading_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of xinbeitou metro station ? 	 select var_x where brack_open dbr_Xinbeitou_metro_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of usilampatti railway station ? 	 select var_x where brack_open dbr_Usilampatti_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of suffern station ? 	 select var_x where brack_open dbr_Suffern_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of north williamstown railway station ? 	 select var_x where brack_open dbr_North_Williamstown_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of hvidovre station ? 	 select var_x where brack_open dbr_Hvidovre_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of reservoir railway station ? 	 select var_x where brack_open dbr_Reservoir_railway_station dbo_rebuildingDate var_x brack_close
+When is the rebuilding date of tonsley railway station ? 	 select var_x where brack_open dbr_Tonsley_railway_station dbo_rebuildingDate var_x brack_close
+What is the rebuilding year of moreland railway station ? 	 select var_x where brack_open dbr_Moreland_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of ivanhoe station ? 	 select var_x where brack_open dbr_Ivanhoe_station_(Illinois) dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of poinciana station ? 	 select var_x where brack_open dbr_Poinciana_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of keelung railway station ? 	 select var_x where brack_open dbr_Keelung_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of market and gough station ? 	 select var_x where brack_open dbr_Market_and_Gough_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of macdonaldtown railway station ? 	 select var_x where brack_open dbr_Macdonaldtown_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of vanløse station ? 	 select var_x where brack_open dbr_Vanløse_Station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of clinton station ? 	 select var_x where brack_open dbr_Clinton_station_(Connecticut) dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of tanjung aru railway station ? 	 select var_x where brack_open dbr_Tanjung_Aru_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of albion railway station ? 	 select var_x where brack_open dbr_Albion_railway_station,_Melbourne dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of veksø station ? 	 select var_x where brack_open dbr_Veksø_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of rahway station ? 	 select var_x where brack_open dbr_Rahway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of pöttyös utca metro station ? 	 select var_x where brack_open dbr_Pöttyös_utca_metro_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of broken hill railway station ? 	 select var_x where brack_open dbr_Broken_Hill_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of montebello ? 	 select var_x where brack_open dbr_Montebello_(station) dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of bland street station ? 	 select var_x where brack_open dbr_Bland_Street_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of salisbury railway station ? 	 select var_x where brack_open dbr_Salisbury_railway_station,_Adelaide dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of ardeer railway station ? 	 select var_x where brack_open dbr_Ardeer_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of bayswater railway station ? 	 select var_x where brack_open dbr_Bayswater_railway_station,_Melbourne dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of rentis railway station ? 	 select var_x where brack_open dbr_Rentis_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of elephant pass railway station ? 	 select var_x where brack_open dbr_Elephant_Pass_railway_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of armadale railway station ? 	 select var_x where brack_open dbr_Armadale_railway_station,_Perth dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of chelsea railway station ? 	 select var_x where brack_open dbr_Chelsea_railway_station,_Melbourne dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of regatta ferry wharf ? 	 select var_x where brack_open dbr_Regatta_ferry_wharf dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of east falls church station ? 	 select var_x where brack_open dbr_East_Falls_Church_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of argenta station ? 	 select var_x where brack_open dbr_Argenta_station dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of oceanside station ? 	 select var_x where brack_open dbr_Oceanside_station_(LIRR) dbo_rebuildingYear var_x brack_close
+What is the rebuilding year of kharkiv railway station ? 	 select var_x where brack_open dbr_Kharkiv_railway_station dbo_rebuildingYear var_x brack_close
+When is the reopening date of regent theatre ? 	 select var_x where brack_open dbr_Regent_Theatre,_Melbourne dbo_reopeningDate var_x brack_close
+When is the reopening date of shea's performing arts center ? 	 select var_x where brack_open dbr_Shea's_Performing_Arts_Center dbo_reopeningDate var_x brack_close
+When is the reopening date of fox theatre ? 	 select var_x where brack_open dbr_Fox_Theatre_(Detroit) dbo_reopeningDate var_x brack_close
+When is the reopening date of stanley industrial alliance stage ? 	 select var_x where brack_open dbr_Stanley_Industrial_Alliance_Stage dbo_reopeningDate var_x brack_close
+When is the reopening date of paris theater ? 	 select var_x where brack_open dbr_Paris_Theater_(Manhattan) dbo_reopeningDate var_x brack_close
+When is the reopening date of marquee theatre ? 	 select var_x where brack_open dbr_Marquee_Theatre dbo_reopeningDate var_x brack_close
+When is the reopening date of club fugazi ? 	 select var_x where brack_open dbr_Club_Fugazi dbo_reopeningDate var_x brack_close
+When is the reopening date of metropolitano stadium ? 	 select var_x where brack_open dbr_Metropolitano_Stadium dbo_reopeningDate var_x brack_close
+When is the reopening date of murphy theatre ? 	 select var_x where brack_open dbr_Murphy_Theatre dbo_reopeningDate var_x brack_close
+When is the reopening date of pnc field ? 	 select var_x where brack_open dbr_PNC_Field dbo_reopeningDate var_x brack_close
+When is the reopening date of estadio municipal germán becker ? 	 select var_x where brack_open dbr_Estadio_Municipal_Germán_Becker dbo_reopeningDate var_x brack_close
+When is the reopening date of estadio ester roa ? 	 select var_x where brack_open dbr_Estadio_Ester_Roa dbo_reopeningDate var_x brack_close
+When is the reopening date of jean cocteau cinema ? 	 select var_x where brack_open dbr_Jean_Cocteau_Cinema dbo_reopeningDate var_x brack_close
+When is the reopening date of climate pledge arena ? 	 select var_x where brack_open dbr_Climate_Pledge_Arena dbo_reopeningDate var_x brack_close
+What is the tenant of tampa stadium ? 	 select var_x where brack_open dbr_Tampa_Stadium dbo_tenant var_x brack_close
+What is the tenant of the palace of auburn hills ? 	 select var_x where brack_open dbr_The_Palace_of_Auburn_Hills dbo_tenant var_x brack_close
+What is the tenant of leidos field at ripken stadium ? 	 select var_x where brack_open dbr_Leidos_Field_at_Ripken_Stadium dbo_tenant var_x brack_close
+What is the tenant of texas stadium ? 	 select var_x where brack_open dbr_Texas_Stadium dbo_tenant var_x brack_close
+What is the tenant of des moines coliseum ? 	 select var_x where brack_open dbr_Des_Moines_Coliseum dbo_tenant var_x brack_close
+What is the tenant of milwaukee county stadium ? 	 select var_x where brack_open dbr_Milwaukee_County_Stadium dbo_tenant var_x brack_close
+What is the tenant of ginásio do maracanãzinho ? 	 select var_x where brack_open dbr_Ginásio_do_Maracanãzinho dbo_tenant var_x brack_close
+What is the tenant of pontiac silverdome ? 	 select var_x where brack_open dbr_Pontiac_Silverdome dbo_tenant var_x brack_close
+What is the tenant of memorial stadium ? 	 select var_x where brack_open dbr_Memorial_Stadium_(Baltimore) dbo_tenant var_x brack_close
+What is the tenant of wolfson park ? 	 select var_x where brack_open dbr_Wolfson_Park dbo_tenant var_x brack_close
+What is the tenant of incheon sungui stadium ? 	 select var_x where brack_open dbr_Incheon_Sungui_Stadium dbo_tenant var_x brack_close
+What is the tenant of edward l. blackshear field ? 	 select var_x where brack_open dbr_Edward_L._Blackshear_Field dbo_tenant var_x brack_close
+What is the tenant of dnipro-arena ? 	 select var_x where brack_open dbr_Dnipro-Arena dbo_tenant var_x brack_close
+What is the tenant of veterans stadium ? 	 select var_x where brack_open dbr_Veterans_Stadium dbo_tenant var_x brack_close
+What is the tenant of vicente calderón stadium ? 	 select var_x where brack_open dbr_Vicente_Calderón_Stadium dbo_tenant var_x brack_close
+What is the tenant of gudeok baseball stadium ? 	 select var_x where brack_open dbr_Gudeok_Baseball_Stadium dbo_tenant var_x brack_close
+What is the tenant of lockhart stadium ? 	 select var_x where brack_open dbr_Lockhart_Stadium dbo_tenant var_x brack_close
+What is the tenant of clipper magazine stadium ? 	 select var_x where brack_open dbr_Clipper_Magazine_Stadium dbo_tenant var_x brack_close
+What is the tenant of estadio olímpico de riobamba ? 	 select var_x where brack_open dbr_Estadio_Olímpico_de_Riobamba dbo_tenant var_x brack_close
+What is the tenant of shurtan stadium ? 	 select var_x where brack_open dbr_Shurtan_Stadium dbo_tenant var_x brack_close
+What is the tenant of chapman field ? 	 select var_x where brack_open dbr_Chapman_Field_(baseball) dbo_tenant var_x brack_close
+What is the tenant of hefei olympic sports center stadium ? 	 select var_x where brack_open dbr_Hefei_Olympic_Sports_Center_Stadium dbo_tenant var_x brack_close
+What is the tenant of beaver stadium ? 	 select var_x where brack_open dbr_Beaver_Stadium dbo_tenant var_x brack_close
+What is the tenant of arigato service dream stadium ? 	 select var_x where brack_open dbr_Arigato_Service_Dream_Stadium dbo_tenant var_x brack_close
+What is the visitor statistics as of of oceanside station ? 	 select var_x where brack_open dbr_Oceanside_station_(LIRR) dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of wollaston station ? 	 select var_x where brack_open dbr_Wollaston_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of mount tabor station ? 	 select var_x where brack_open dbr_Mount_Tabor_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of walnut street station ? 	 select var_x where brack_open dbr_Walnut_Street_station_(NJ_Transit) dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of werribee railway station ? 	 select var_x where brack_open dbr_Werribee_railway_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of schofields railway station ? 	 select var_x where brack_open dbr_Schofields_railway_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of milton station ? 	 select var_x where brack_open dbr_Milton_station_(MBTA) dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of ottumwa station ? 	 select var_x where brack_open dbr_Ottumwa_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of princeton station ? 	 select var_x where brack_open dbr_Princeton_station_(Illinois) dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of central avenue/camelback station ? 	 select var_x where brack_open dbr_Central_Avenue/Camelback_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of benning road station ? 	 select var_x where brack_open dbr_Benning_Road_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of quincy station ? 	 select var_x where brack_open dbr_Quincy_station_(Amtrak) dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of kensington/115th street station ? 	 select var_x where brack_open dbr_Kensington/115th_Street_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of changhua hsr station ? 	 select var_x where brack_open dbr_Changhua_HSR_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of espoo railway station ? 	 select var_x where brack_open dbr_Espoo_railway_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of forge park/495 station ? 	 select var_x where brack_open dbr_Forge_Park/495_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of nivelles railway station ? 	 select var_x where brack_open dbr_Nivelles_railway_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of locust valley station ? 	 select var_x where brack_open dbr_Locust_Valley_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of farsta metro station ? 	 select var_x where brack_open dbr_Farsta_metro_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of gakkōmae station ? 	 select var_x where brack_open dbr_Gakkōmae_Station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of arras station ? 	 select var_x where brack_open dbr_Arras_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of brewster station ? 	 select var_x where brack_open dbr_Brewster_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of yatomi station ? 	 select var_x where brack_open dbr_Yatomi_Station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of warrensburg station ? 	 select var_x where brack_open dbr_Warrensburg_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of mystic station ? 	 select var_x where brack_open dbr_Mystic_station_(Connecticut) dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of romero rubio metro station ? 	 select var_x where brack_open dbr_Romero_Rubio_metro_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of kiewit railway station ? 	 select var_x where brack_open dbr_Kiewit_railway_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of ibrox subway station ? 	 select var_x where brack_open dbr_Ibrox_subway_station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor statistics as of of iwami-fukumitsu station ? 	 select var_x where brack_open dbr_Iwami-Fukumitsu_Station dbo_visitorStatisticsAsOf var_x brack_close
+What is the visitor percentage change of princeton station ? 	 select var_x where brack_open dbr_Princeton_station_(Illinois) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of bingen–white salmon station ? 	 select var_x where brack_open dbr_Bingen–White_Salmon_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of burbank airport–south station ? 	 select var_x where brack_open dbr_Burbank_Airport–South_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of new orleans union passenger terminal ? 	 select var_x where brack_open dbr_New_Orleans_Union_Passenger_Terminal dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of port coquitlam station ? 	 select var_x where brack_open dbr_Port_Coquitlam_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of luodong railway station ? 	 select var_x where brack_open dbr_Luodong_railway_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of nopalera metro station ? 	 select var_x where brack_open dbr_Nopalera_metro_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of conservatory–central park drive station ? 	 select var_x where brack_open dbr_Conservatory–Central_Park_Drive_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of fayetteville station ? 	 select var_x where brack_open dbr_Fayetteville_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of lambert airport terminal 1 station ? 	 select var_x where brack_open dbr_Lambert_Airport_Terminal_1_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of denair station ? 	 select var_x where brack_open dbr_Denair_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of addison station ? 	 select var_x where brack_open dbr_Addison_station_(CTA_Blue_Line) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of 8th & pine station ? 	 select var_x where brack_open dbr_8th_&_Pine_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of martín carrera metro station ? 	 select var_x where brack_open dbr_Martín_Carrera_metro_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of yuanshan metro station ? 	 select var_x where brack_open dbr_Yuanshan_metro_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of st. albans station ? 	 select var_x where brack_open dbr_St._Albans_station_(Vermont) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of waterfront station ? 	 select var_x where brack_open dbr_Waterfront_station_(Washington_Metro) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of emerson park station ? 	 select var_x where brack_open dbr_Emerson_Park_station_(MetroLink) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of great notch station ? 	 select var_x where brack_open dbr_Great_Notch_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of civic center station ? 	 select var_x where brack_open dbr_Civic_Center_station_(Metrorail) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of university city–big bend station ? 	 select var_x where brack_open dbr_University_City–Big_Bend_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of rouses point station ? 	 select var_x where brack_open dbr_Rouses_Point_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of croton falls station ? 	 select var_x where brack_open dbr_Croton_Falls_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of montrose station ? 	 select var_x where brack_open dbr_Montrose_station_(CTA_Brown_Line) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of morgan station ? 	 select var_x where brack_open dbr_Morgan_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of niagara falls station ? 	 select var_x where brack_open dbr_Niagara_Falls_station_(New_York) dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of winfield station ? 	 select var_x where brack_open dbr_Winfield_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of browning station ? 	 select var_x where brack_open dbr_Browning_station dbo_visitorsPercentageChange var_x brack_close
+What is the visitor percentage change of shrewsbury–lansdowne i-44 station ? 	 select var_x where brack_open dbr_Shrewsbury–Lansdowne_I-44_station dbo_visitorsPercentageChange var_x brack_close

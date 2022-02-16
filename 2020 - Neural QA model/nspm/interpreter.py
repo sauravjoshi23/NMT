@@ -139,7 +139,7 @@ def interpret(input_dir):
   finaltrans = []
 
   # Adding all the test input NLQ data for translation
-  test_dir = input_dir+'/test.en'
+  test_dir = input_dir+'/test_benchmark.en'
   file1 = open(test_dir, 'r', encoding="utf8")
   Lines1 = file1.readlines()
   inp_dataset = []

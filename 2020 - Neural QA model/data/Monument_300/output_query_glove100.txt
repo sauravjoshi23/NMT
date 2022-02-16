@@ -1,0 +1,1505 @@
+select var_x where brack_open dbr_St . _John s_Church_ dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St . _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St_Martin in dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St . _John s_Church_ Fields dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St . _John dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St . _John s_Church_ dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Arkansas dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St . _John dbo_architect var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St . _ dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_architecturalStyle var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingEndYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_Lincoln_Tunnel dbo_buildingStartYear var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_William_Walter_Mason_Bridge dbo_constructionMaterial var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ Iasi dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ Iasi dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ Iasi dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ Iasi dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ Iasi dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly . _ dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ s_Theatre , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Luceafarul_Theatre_ Iasi dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_St , _Pennsylvania dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Daly dbo_currentlyUsedFor var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ arena dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ Turm dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Cheonan_Oryong_Stadium dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ Turm dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _L . _Tigue_Moore_Field_at_Russo_Park dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ arena dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ arena dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ arena dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _L . _Tigue_Moore_Field_at_Russo_Park dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ arena dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ Turm dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ Turm dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ Turm dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge . _Agnes_Church_ arena dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Citadel_Rail_Bridge dbo_demolitionDate var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam . dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam . dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam . dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_Edwards_Dam dbo_demolitionYear var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _ dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _ dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _ dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _ dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ San_Francisco dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_ , _London dbo_maintainedBy var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_Waarschoot_railway_station dbo_rebuildingDate var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Charlotte dbo_rebuildingYear var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Philadelphia dbo_rebuildingYear var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Charlotte dbo_rebuildingYear var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_Fox_Theatre_ dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater . _Melbourne dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_New_Frontier_Theater dbo_reopeningDate var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al _Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St . _L . _Tigue_Moore_Field_at_Russo_Park dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St . _Tigue_Moore_Field_at_Russo_Park dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al _Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al _Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St , _Tigue_Moore_Field_at_Russo_Park dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St . _L . _Tigue_Moore_Field_at_Russo_Park dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_St dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_Al Hamadaniah_Stadium dbo_tenant var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station_ Illinois dbo_visitorStatisticsAsOf var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>
+select var_x where brack_open dbr_ th_Street_station dbo_visitorsPercentageChange var_x brack_close <end>

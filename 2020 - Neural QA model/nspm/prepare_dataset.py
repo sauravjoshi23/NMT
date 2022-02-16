@@ -9,11 +9,13 @@ https://arxiv.org/abs/1708.07624
 Version 2.0.0
 
 """
+from fileinput import filename
 import tensorflow as tf
 
 import unicodedata
 import re
 import io
+import numpy as np
 
 
 def unicode_to_ascii(s):
@@ -60,6 +62,35 @@ def tokenize(lang):
                                                          padding='post')
 
   return tensor, lang_tokenizer
+
+def maxlength(data):
+  maxlen = 0
+  for x in data:
+    maxlen = max(maxlen, len(x))
+  
+  return maxlen
+  
+
+def load_glove_embeddings(filename):
+  embedding_dictionary = dict()
+  with open(filename,'r') as glove_file:
+      for line in glove_file:
+          values=line.split()
+          word=values[0]
+          vectors=np.asarray(values[1:],'float32')
+          embedding_dictionary[word]=vectors
+  glove_file.close()
+
+  return embedding_dictionary
+
+def create_embedding_matrix(embedding_dictionary, vocab_size, MAXLEN, tokenizer):
+  embedding_matrix = np.zeros((vocab_size, MAXLEN))
+  for word, index in tokenizer.word_index.items():
+      embedding_vector = embedding_dictionary.get(word)
+      if embedding_vector is not None: 
+          embedding_matrix[index] = embedding_vector
+        
+  return embedding_matrix
 
 
 def load_dataset(path, num_examples=None):

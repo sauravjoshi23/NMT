@@ -15,11 +15,12 @@ import pickle
 
 
 class Encoder(tf.keras.Model):
-  def __init__(self, vocab_size, embedding_dim, enc_units, batch_sz):
+  def __init__(self, vocab_size, embedding_dim, enc_units, batch_sz, embedding_en):
     super(Encoder, self).__init__()
     self.batch_sz = batch_sz
     self.enc_units = enc_units
-    self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim)
+    self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim, embeddings_initializer=tf.keras.initializers.Constant(embedding_en),
+trainable=True)
     self.gru = tf.keras.layers.GRU(self.enc_units,
                                    return_sequences=True,
                                    return_state=True,
@@ -64,11 +65,12 @@ class BahdanauAttention(tf.keras.layers.Layer):
 
 
 class Decoder(tf.keras.Model):
-  def __init__(self, vocab_size, embedding_dim, dec_units, batch_sz):
+  def __init__(self, vocab_size, embedding_dim, dec_units, batch_sz, embedding_sparql):
     super(Decoder, self).__init__()
     self.batch_sz = batch_sz
     self.dec_units = dec_units
-    self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim)
+    self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim, embeddings_initializer=tf.keras.initializers.Constant(embedding_sparql),
+trainable=True)
     self.gru = tf.keras.layers.GRU(self.dec_units,
                                    return_sequences=True,
                                    return_state=True,
@@ -117,7 +119,9 @@ class NeuralMTConfig(object):
               max_length_targ, 
               max_length_inp,
               inp_lang,
-              targ_lang
+              targ_lang,
+              embedding_en,
+              embedding_sparql
               ):
     self.vocab_inp_size = vocab_inp_size
     self.vocab_tar_size = vocab_tar_size
@@ -129,6 +133,8 @@ class NeuralMTConfig(object):
     self.max_length_inp = max_length_inp
     self.inp_lang = inp_lang
     self.targ_lang = targ_lang
+    self.embedding_en = embedding_en
+    self.embedding_sparql = embedding_sparql
 
 
 class NeuralMT(object):
@@ -138,7 +144,7 @@ class NeuralMT(object):
     self.loss_object = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True, 
                                                                       reduction='none')
 
-    encoder = Encoder(config.vocab_inp_size, config.embedding_dim, config.units, config.batch_size)
+    encoder = Encoder(config.vocab_inp_size, config.embedding_dim, config.units, config.batch_size, config.embedding_en)
 
     # sample input
     sample_hidden = encoder.initialize_hidden_state()
@@ -152,7 +158,7 @@ class NeuralMT(object):
     print(f"Attention result shape: (batch size, units) {attention_result.shape}")
     print(f"Attention weights shape: (batch_size, sequence_length, 1) {attention_weights.shape}")
 
-    decoder = Decoder(config.vocab_tar_size, config.embedding_dim, config.units, config.batch_size)
+    decoder = Decoder(config.vocab_tar_size, config.embedding_dim, config.units, config.batch_size, config.embedding_sparql)
 
     sample_decoder_output, _, _ = decoder(tf.random.uniform((config.batch_size, 1)),
                                           sample_hidden, sample_output)
@@ -195,3 +201,4 @@ class NeuralMT(object):
     with open(f"{directory}/neuralmt.pkl", "rb") as f:
       config = pickle.load(f)
     return config
+    
