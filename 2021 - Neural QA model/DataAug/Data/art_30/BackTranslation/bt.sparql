@@ -1,0 +1,300 @@
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Jeffrey_Katzenberg sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_George_Gilbert_Scott sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Mel_Rubi sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Adrian_Păunescu dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Trost_&_Trost sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Palmer_Cox dbo_notableWork var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_St._John's_Church,_Tallinn dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_STV_(TV_channel) brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Hiroshi_Naito sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Family_(1994_TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Gabriela_Hrázská sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Canadian_blues brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_Kairali_TV sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Ski_mountaineering brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Me_Mammy dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Pietro_Fenoglio sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Barsoom dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Stromae sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_TVNZ_OnDemand brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Kanal_D brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Seattle_Majestics sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Gideon_Shryock sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Jamieson_Parker sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Araldo_Cossutta sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Springhill_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Richard_Shackleton_Pope sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_XXX_(music_group) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Office_for_Metropolitan_Architecture sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Walter_William_LaChance sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Frank_Robbins sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_TV3_(Estonia) brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_MTV3 sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Kevin_Borland sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Sanguinet_&_Staats sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Edward_Clark_(architect) sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Western_false_front_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Etan_Frankel dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Dalilah_Sappenfield sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Allie_Hann-McCurdy sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Edward_Columbus_Hosford sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Mathew_Gates sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Joseph_Hansom sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Tom_Sutton sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Instrumental_rock brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Mysore_Road_metro_station dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Vienna_Secession sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_Africa_Independent_Television sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Francine_Houben sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Memphis_Showboats sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Mort_Weisinger sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Radio_comedy brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Neo-Grec sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_The_InBetween dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_George_A._Frederick sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_AS_Monaco_FC sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_The_Upper_Hand_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_VH1 sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Austin-Smith:Lord sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Oranges_Are_Not_the_Only_Fruit_(TV_serial) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_English_Gothic_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Literary_adaptation brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Balinese_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Charles_Pratt_Huntington sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Elmer_Grey sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Evgueni_and_Sacha_Galperine sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_LNK_(television_station) sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_SmithGroup sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Astoria_Bydgoszcz sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Art_game brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Tom_Morgan_(comics) sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_John_Carr_(architect) sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Alan_Silvestri sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Banshee_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Paul_Wirtz sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Rustic_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Arkadelphia_station dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_RTL_5 sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Africa_Independent_Television brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Kevin_Roche sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Joachim_Meyer dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Baltimore_Charm sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_John_F._Staub sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Creek_(Dubai_Metro) dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Professor_Challenger dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Francisco_Mañosa sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Jan_Stuyt sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Ita_Buttrose sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Kamen_Rider_Fourze dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Frank_Gehry sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Electric_Six sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Arthur_Pinajian sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Thorvald_Jørgensen sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_American_Broadcasting_Company sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_MBC_Persia brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_I._M._Pei sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_TV8_(Italian_TV_channel) brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Classics sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_George_Frederick_Bodley sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Jamal_Igle sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Henry_Hutchinson sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Middle_Ages sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Mihran_Mesrobian sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_TV4_(Sweden) sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Youngstown_Pride sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_President_(corporate_title) sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Wang_Leehom sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_George_A._Frederick sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Robot_competition brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Pavel_Janák sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Alvar_Aalto sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Asian_Underground brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Canal_del_Norte_metro_station dbp_style var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Greenwood_station_(Mississippi) dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Project_Runway_Korea dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Araldo_Cossutta sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Masayoshi_Son sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Oh_Happy_Band! dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Louis_Kahn sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Charles_Draper_Faulkner sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Scientific_visualization brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Antena_3_(Spanish_TV_channel) brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Korean_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Alexander_Bernardazzi sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_For_the_Love_of_Ada dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Chick-fil-A_Kickoff_Game sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_The_Brink_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Thomas_W._Lamb sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Shoaib_Ahmed_Shaikh sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Yu_Jie dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_David_Hine sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_NRJ_12 brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Telecorporación_Salvadoreña brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Campbell_Fighting_Camels_and_Lady_Camels sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Jack_Weatherford dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Charles_Busby sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Frank_Mills_Andrews sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Irvine_Welsh dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Infinite_(band) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_Univision sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Patrice_Lauzon sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Oprah_Winfrey_Network brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Randy_Newman sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Monumentale_(Milan_Metro) dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Fentress_Architects sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Heinrich_Wenck sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Taiga_drama brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Heidi_(2015_TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Peter_Robinson_(novelist) dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Vilhelm_Dahlerup sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Antonio_Corazzi sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Louis_Sullivan sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Virgin_Media_One brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Thomas_W._Lamb sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Joe_Exotic_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Walter_William_LaChance sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Jean_Nouvel sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Henning_Mankell dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Tove_Jansson dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Mario_Botta sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Collegiate_Church_of_St._Peter_and_St._Guido dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_José_Feliciano sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Rock_en_español brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_History_of_Sierra_Leone brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Ron_Randall sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Brad_Cloepfil sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_John_W._R._Taylor dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Suspense brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Francis_Thompson_(architect) sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT var_uri where brack_open dbr_St_Peter_upon_Cornhill dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Mayers_Murray_&_Phillip sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Chantal_Lefebvre sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Brian_Tesler sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Jeffrey_Buttle sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Lee_Tae-min sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Mariana_Kozlova sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Prva_Srpska_Televizija brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Maltese_Baroque_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_BET sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_E._Nelson_Bridwell sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Rev._(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_High-rise_building sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Steve_Uy sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Christian_Nodal sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Tredegar_House dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_George_Gilbert_Scott sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Biomimetic_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Penfield_station_(SEPTA) dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Sydney_Smirke sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_MBC_Persia sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Mamoni_Raisom_Goswami dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_A2Z_(Philippine_TV_channel) sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Vietnam_Television brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Johann_Gottfried_Büring sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Clayton_&_Black sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_TNT_(American_TV_network) brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Dominican_rock brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Ernst_Hinterberger dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Novel brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Yoshirō_Taniguchi sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Charles_Bebb sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Cielo_(TV_channel) brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Samantha_Who%3F dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Reed_Crandall sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Location-based_game brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Claude_Ferrier sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Itō_Chūta sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Clinical_decision_support_system brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_ZGF_Architects sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Angelina_Ballerina:_The_Next_Steps dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Michael_Fleisher sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Jay_Switzer sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_William_Paty sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT var_uri where brack_open dbr_35th_Street_station dbp_style var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Dongchun_station dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_TV_Derana brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Routing_protocol brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Richard_M._Upjohn sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Joe_Sinnott sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Eggers_&_Higgins sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Martin_Skotnický sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_The_Breeders sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_George_Dahl sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Richard_Morris_Hunt sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Jacksonville_Breeze sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Muzharul_Islam sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Olle_Hedberg dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_George_Baker_(cartoonist) sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Hooshang_Seyhoun sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Binghamton_Senators sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Mukhammas brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Buckminster_Fuller sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Heathcote_Helmore sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_James_O'Barr sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Jean_François_Foppens dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Lloyd_Jones_(figure_skater) sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Bump_in_the_Night_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Winter_Haven_station dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Kelly_Clarkson sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_Sony_SAB sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_RTÉ2 brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Mosque_architecture_in_Indonesia sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Lao_people sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Web-to-print brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_TV3_(Sweden) sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Kengo_Kuma sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Thomas_Shelmerdine sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Fugees sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_John_Hawks_(architect) sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Thomas_Cecil_Howitt sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Zhejiang_Television brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Alan_Grant_(writer) sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_WPA_Rustic sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Mary_Turner_Shaw sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Hollywood_Stars sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_Seven_Network brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Unnatural_History_(TV_series) dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Syrians sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_Octagon sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Harry_Weedon sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Claude_Ferrier sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Joss_Stone sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architecturalStyle dbr_French_Baroque_architecture sep_dot var_x dbp_address var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_Azad_Azerbaijan_TV sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Young,_Gifted_and_Broke dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Kamen_Rider_Kuuga dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_M._G._Radhakrishnan sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Jan_Stuyt sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_Collaboration brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_TVA_(Canadian_TV_network) sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_genre dbr_MHealth brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Joey_Cavalieri sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Charles_Lanyon sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_ProSieben sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Frank_Springer sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_NuvoTV brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Wallace_and_Gromit's_World_of_Invention dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbp_creators dbr_Joe_Shuster sep_dot var_uri a dbo_ComicsCharacter brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_uri dbo_network dbr_NHK_General_TV brack_close
+SELECT DISTINCT var_uri where brack_open dbr_St_Peter's_Church,_Ballymodan dbp_style var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Port_Huron_station dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Are_You_Being_Served%3F dbp_creator var_x sep_dot var_x dbo_notableWork var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_George_A._Frederick sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_network dbr_Vizion_Plus sep_dot var_x dbp_judges var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Chief_business_officer sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Edward_Columbus_Hosford sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_formerChoreographer dbr_Jonathon_O'Dougherty sep_dot var_x dbo_formerPartner var_uri sep_dot var_uri a dbo_Person brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_architect dbr_Regent_Alfred_John_Bidwell sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Pari_Temple dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_keyPerson dbr_Tim_Davie sep_dot var_uri dbo_network var_x brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_George_Dance_the_Elder sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Basilica_of_the_Visitation,_Għarb dbp_style var_uri brack_close
+SELECT DISTINCT var_uri where brack_open dbr_Dillon_station dbp_style var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Szymon_Bogumił_Zug sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Mass_Hysteria_(band) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_Hopkins_Architects sep_dot var_x dbo_architect var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_architect dbr_William_B._Tabler sep_dot var_x dbp_locationTown var_uri sep_dot var_uri a dbo_City brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Sharon_Carter_Rogers dbo_notableWork var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbo_tenant dbr_Las_Vegas_Americans sep_dot var_x dbp_architect var_uri brack_close
+SELECT DISTINCT var_uri where brack_open var_x dbo_architect dbr_Tatsuno_Kingo sep_dot var_x dbp_locationTown var_uri sep_dot var_x a dbo_Building brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open dbr_Siegfried_van_Praag dbo_notableWork var_uri brack_close
